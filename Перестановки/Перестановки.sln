@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перестановки", "Перестановки\Перестановки.csproj", "{4741F5B6-0FE3-4165-80A6-02419A098F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4741F5B6-0FE3-4165-80A6-02419A098F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4741F5B6-0FE3-4165-80A6-02419A098F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4741F5B6-0FE3-4165-80A6-02419A098F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4741F5B6-0FE3-4165-80A6-02419A098F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627D5A12-D757-4FE4-A8AB-8B64FDA64213}
+	EndGlobalSection
+EndGlobal

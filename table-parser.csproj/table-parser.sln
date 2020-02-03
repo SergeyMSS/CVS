@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "table-parser", "table-parser.csproj", "{46300163-1BDE-4535-B5A1-60A599CE0A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46300163-1BDE-4535-B5A1-60A599CE0A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46300163-1BDE-4535-B5A1-60A599CE0A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46300163-1BDE-4535-B5A1-60A599CE0A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46300163-1BDE-4535-B5A1-60A599CE0A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD4C12E-742D-47B0-9E66-CC8FC63CF604}
+	EndGlobalSection
+EndGlobal
